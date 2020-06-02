@@ -7,3 +7,9 @@ Create Eureka Client
 Interact between Server and Client
 
 API Gateway 
+
+Hystrix
+
+Ribbon
+
+Config Server
