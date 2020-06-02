@@ -3,3 +3,7 @@ This is my Microservice tutorial in hindi
 Create Eureka Server
 
 Create Eureka Client
+
+Interact between Server and Client
+
+API Gateway 
